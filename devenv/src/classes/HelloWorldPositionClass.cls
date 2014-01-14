@@ -1,4 +1,4 @@
-public class HelloWorldPositionClass //comment
+public class HelloWorldPositionClass //comment2
 {
 	public static void helloWorld(List<Position__c> positions)
 	{
